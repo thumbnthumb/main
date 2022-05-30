@@ -1,2 +1,3 @@
 # main
-I'm working for id
+I'm working for it
+looking for better life
